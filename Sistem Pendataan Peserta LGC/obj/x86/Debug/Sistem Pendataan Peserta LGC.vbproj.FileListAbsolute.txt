@@ -1,0 +1,25 @@
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\bin\Debug\Sistem Pendataan Peserta LGC.exe.config
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\bin\Debug\Sistem Pendataan Peserta LGC.exe
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\bin\Debug\Sistem Pendataan Peserta LGC.pdb
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\bin\Debug\Sistem Pendataan Peserta LGC.xml
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\bin\Debug\Guna.UI2.dll
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\bin\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\bin\Debug\AxInterop.CrystalPrintControlLib.dll
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\Sistem Pendataan Peserta LGC.vbprojResolveAssemblyReference.cache
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\AxInterop.CrystalPrintControlLib.dll
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\Sistem Pendataan Peserta LGC.vbproj.ResolveComReference.cache
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\Sistem_Pendataan_Peserta_LGC.Dashboard.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\Sistem_Pendataan_Peserta_LGC.DataPegawai.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\Sistem_Pendataan_Peserta_LGC.DataPeserta.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\Sistem_Pendataan_Peserta_LGC.Login.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\Sistem_Pendataan_Peserta_LGC.LaporanDataPegawai.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\Sistem_Pendataan_Peserta_LGC.Resources.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\Sistem_Pendataan_Peserta_LGC.PencarianDataPegawai.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\Sistem_Pendataan_Peserta_LGC.PencarianDataPeserta.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\Sistem_Pendataan_Peserta_LGC.ResetPassword.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\Sistem Pendataan Peserta LGC.vbproj.GenerateResource.Cache
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\Sistem Pendataan Peserta LGC.exe
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\Sistem Pendataan Peserta LGC.xml
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\Sistem Pendataan Peserta LGC.pdb
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Sistem Pendataan Peserta LGC\Sistem Pendataan Peserta LGC\obj\x86\Debug\Sistem_Pendataan_Peserta_LGC.LaporanDataPeserta.resources
